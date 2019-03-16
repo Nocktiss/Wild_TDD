@@ -1,0 +1,15 @@
+{
+   " name ": " learn-travis-YOURNAME ",
+   " description ": " Vérification simple Travis-CI pour JSHint (code linting) ",
+   " author ": " votre nom ici :-) ",
+   " version ": " 0.0 .1 ",
+   " devDependencies ": {
+      " jshint ": " ^ 2.6.0 "
+   },
+   " scripts ": {
+      " test ": " jshint hello.js "
+   },
+   "devDependencies": {
+      "jshint": "^2.10.2"
+   }
+}
